@@ -3,7 +3,7 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, key)
-  { hash: "New York City", value: "Student" }
+  hash_to_read = {location: 'New York City', occupation: 'Student'}
 end
 
 def update_counting_hash(hash, key)
