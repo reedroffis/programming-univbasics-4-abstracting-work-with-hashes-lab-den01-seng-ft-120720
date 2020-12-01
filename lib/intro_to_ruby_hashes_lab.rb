@@ -5,7 +5,7 @@ end
 def read_from_hash(hash, key)
   key = "student"
   hash1 = 
-  { 
+  { hash.new 
 end
 
 def update_counting_hash(hash, key)
